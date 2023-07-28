@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 
-import classes from "./MainNavigation.module.css";
 import NewsletterSignup from "./NewsletterSignup";
+import classes from "./MainNavigation.module.css";
 
 function MainNavigation() {
   return (
